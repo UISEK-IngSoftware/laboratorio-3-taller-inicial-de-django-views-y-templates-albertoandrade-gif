@@ -9,11 +9,11 @@ De la misma manera se hará una introduccion a Bootstrap para el uso de librerí
 El estudiante debe ser capaz de reconocer y aplicar conceptos básicos del Paradigma Orientado a Objetos (POO) como: Clases, Ojetos, Atributos, Métodos. Así mismo el presente proyecto introduce al desarrollo de aplicaciones Web mediante el uso de Django como marco de trabajo para el desarrollo.
 
 ## Datos del estudiante
-Nombre del estudiante: [Nombre del estudiante aquí] 
+Nombre del estudiante: Alberto Andrade
 
-Nivel: [Nivel] 
+Nivel: Estudiante
 
-Carrera: [Carrera del estudiante aquí] 
+Carrera: Ingeniería en Informática 
 
 ## Tareas a realizar
 1. Crear la aplicación para la gestión de Pokemones
